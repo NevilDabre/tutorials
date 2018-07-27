@@ -1,4 +1,5 @@
-# tutorials - Webpack
-Saving projects which I have created referencing online tutorial
+# Tutorials - Webpack
 
-This tutorial is about Webpack basic understanding
+This tutorial is about Webpack basic understanding. 
+
+**Reference tutorial link** - https://advancedweb.hu/2016/02/02/the-first-steps-from-grunt-to-webpack/
